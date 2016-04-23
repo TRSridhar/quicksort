@@ -25,5 +25,5 @@ template<typename IT, typename PF> void quick_sort(IT begin, IT end, PF pf);
 template<typename IT> void quick_sort(IT begin, IT end);
 
 template<typename T> void print(const T &data);
-
+//Edit in remote repository
 #endif
